@@ -1,3 +1,6 @@
+This Repository is only meant as a mirror, as the original author hosted this project on CodePlex.
+Feel free to submit PRs and I'll try to merge them if they fix usage for "newer" versions of jQuery.
+
 Project Description
 =====================
 
